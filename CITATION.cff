@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this atlas, please cite the article below."
+title: "Piglet Brain MRI Atlas, version 1.2 (4-week)"
+version: "1.2"
+date-released: 2016-12-12
+url: "https://pigmri.illinois.edu/neuroimaging-resources"
+repository-code: "https://github.com/Nutrition-Health-Neuroscience-DilgerLab/pig-brain-atlas-v1.2"
+license: CC0-1.0
+authors:
+  - family-names: Conrad
+    given-names: Matthew S.
+  - family-names: Sutton
+    given-names: Bradley P.
+  - family-names: Dilger
+    given-names: Ryan N.
+    email: rdilger2@illinois.edu
+  - family-names: Johnson
+    given-names: Rodney W.
+preferred-citation:
+  type: article
+  title: "An in vivo three-dimensional magnetic resonance imaging-based averaged brain collection of the neonatal piglet (Sus scrofa)"
+  authors:
+    - family-names: Conrad
+      given-names: Matthew S.
+    - family-names: Sutton
+      given-names: Bradley P.
+    - family-names: Dilger
+      given-names: Ryan N.
+    - family-names: Johnson
+      given-names: Rodney W.
+  journal: "PLoS ONE"
+  volume: 9
+  issue: 9
+  start: e107650
+  year: 2014
+  doi: "10.1371/journal.pone.0107650"
